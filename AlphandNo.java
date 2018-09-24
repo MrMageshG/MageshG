@@ -1,5 +1,6 @@
 	import java.util.Scanner;
   class AlphandNo
+  {
   public static void main(Strng[] args)
   {
   char ch;
@@ -17,3 +18,4 @@
         }
         
     }
+  }
