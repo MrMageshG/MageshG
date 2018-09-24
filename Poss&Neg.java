@@ -23,7 +23,11 @@ System.out.println("\nNegative");
         
 }
 
-        else
+else if(number==0)
+{
+	System.out.println("\nZero");
+}
+	else
         
 {
             
