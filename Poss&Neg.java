@@ -1,4 +1,7 @@
-\\put header file
+import java.util.Scanner;
+import java.util.io;
+class Poss&Neg
+{
 publi static void main(String[] args)
 {
 int number;
@@ -31,9 +34,9 @@ else if(number==0)
         
 {
             
-System.out.println(number+" is neither positive nor negative");
+System.out.println(" is neither Positive nor Negative");
         
 }
 	
 }
-
+}
