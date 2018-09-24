@@ -17,15 +17,15 @@ System.out.println("Even");
         
 }
         
-else if(m % 3==0)
+else if(m<0)
         
 {
             
-System.out.println("Odd");
+System.out.println("invalid");
 	
 }
     else
     {
-	    System.out.println("invalid");
+	    System.out.println("Odd");
  }
 }
