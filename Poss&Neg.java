@@ -30,13 +30,6 @@ else if(number==0)
 {
 	System.out.println("\nZero");
 }
-	else
-        
-{
-            
-System.out.println(" is neither Positive nor Negative");
-        
-}
-	
+
 }
 }
