@@ -1,7 +1,7 @@
 	import java.util.Scanner;
   class AlphandNo
   {
-  public static void main(Strng[] args)
+  public static void main(String[] args)
   {
   char ch;
         Scanner scan = new Scanner(System.in);
