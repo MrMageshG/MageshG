@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class V&C
+class VandC
 {
 	public static void main (String[] args) throws java.lang.Exception
 	{
