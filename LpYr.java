@@ -8,11 +8,11 @@ Scanner sc=new Scanner(System.in);
  yr=sc.nextInt();
 if(yr % 4==0)
 {
-System.out.println("Yes");
+System.out.println("yes");
 }
 else
 {
-	System.out.println("No");
+	System.out.println("no");
 }
 }
 }
