@@ -1,4 +1,6 @@
-\\put header file
+import java.util.Scanner;
+class Odd&Even
+{
 public static void main (String[] args) 
 
 {
@@ -28,4 +30,5 @@ System.out.println("invalid");
     {
 	    System.out.println("Odd");
  }
+}
 }
