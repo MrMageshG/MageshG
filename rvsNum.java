@@ -27,13 +27,13 @@ n=n/10;
   if(t==sum)
 {    
    
-System.out.println("yes ");  
+System.out.println("Yes ");  
 }  
  
  else  
 {  
    
-System.out.println("No");  
+System.out.println("no");  
 }  
 
 }  
