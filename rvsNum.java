@@ -9,10 +9,7 @@ int r,sum=0,t;
 int n;
  
 Scanner s=new Scanner(System.in);
- 
-System.out.println("Enter The Number:");
- 
-n=s.nextInt();
+ n=s.nextInt();
   
 t=n;    
  
