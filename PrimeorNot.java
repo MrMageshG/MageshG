@@ -27,7 +27,7 @@ n=n/10;
   if(t==sum)
 {    
    
-System.out.println("Yes ");  
+System.out.println("yes ");  
 }  
  
  else  
