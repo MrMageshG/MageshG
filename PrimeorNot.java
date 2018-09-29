@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class rvsNum
+class PrimrorNot
 {
 public static void main (String[] args) 	
 {
