@@ -26,6 +26,6 @@ int i=0;
 		if((ch>='a'&&ch<='z')||(ch>='A'&&ch<='Z'))
 		System.out.println("Consonant");
 		else
-		System.out.println("invalid");		
+		System.out.println("Invalid");		
 	}
 }
